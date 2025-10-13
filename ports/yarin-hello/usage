@@ -1,0 +1,3 @@
+This is a header-only library. Just:
+  #include <yarin/hello.hpp>
+and call yarin::hello().
