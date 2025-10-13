@@ -2,7 +2,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO o3wiz/dnlib
     REF v1.0.1
-    SHA512 0
+    SHA512 8916a1741c9ae4d30b4bc28c3ed1423832436680a27d0042eb217c837ed34b02f55b61d2f80a9c75c76031f9af4067e3bd020f6f48760bcf7ab1f64032d0a1d5
 )
 
 vcpkg_cmake_configure(
