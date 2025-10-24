@@ -4,6 +4,10 @@
       "baseline": "2.1.0",
       "port-version": 0
     },
+    "greeter": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "yarin-hello": {
       "baseline": "1.0.0",
       "port-version": 0
