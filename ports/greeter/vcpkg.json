@@ -1,6 +1,6 @@
 {
   "name": "greeter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Greeter a person by name",
   "homepage": "https://github.com/o3wiz/greeter",
   "dependencies": [
