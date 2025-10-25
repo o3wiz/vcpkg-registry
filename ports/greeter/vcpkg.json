@@ -4,6 +4,7 @@
   "description": "Greeter a person by name",
   "homepage": "https://github.com/o3wiz/greeter",
   "dependencies": [
+    "fmt",
     {
       "name": "vcpkg-cmake",
       "host": true
